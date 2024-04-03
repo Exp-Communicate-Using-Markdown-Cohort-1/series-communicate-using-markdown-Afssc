@@ -2,3 +2,4 @@
 I am learning markdown. 
 ### This is medium header which I often used in jupyterlab.
 ###### This is miniest header.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
