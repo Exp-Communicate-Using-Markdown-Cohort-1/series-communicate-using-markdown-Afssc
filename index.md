@@ -8,3 +8,6 @@ I am learning markdown.
 $git init 
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ````
+- [x] This is a Checkbox.
+- [x] It is useful.
+- [ ] Can it be rendered successfully?
